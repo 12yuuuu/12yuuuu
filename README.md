@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.imgur.com/A6bWGFl.gif" hieght="100">
-  <img src="https://media.tenor.com/TGd-ZDBf41QAAAAi/flip-cat.gif" hieght="100">
+  <img src="https://i.imgur.com/A6bWGFl.gif" height="100">
+  <img src="https://media.tenor.com/TGd-ZDBf41QAAAAi/flip-cat.gif" height="100">
 </div>
 
 ## Kuan Yu Liu 🌻

@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://media.tenor.com/TGd-ZDBf41QAAAAi/flip-cat.gif" width="50">
+<img src="https://i.imgur.com/A6bWGFl.gif">
+<img src="https://media.tenor.com/TGd-ZDBf41QAAAAi/flip-cat.gif">
 
 ## Kuan Yu Liu 🌻
 - 🔭 I’m a Student from National Cheng Kung University
